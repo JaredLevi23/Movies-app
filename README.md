@@ -33,7 +33,7 @@ Para ejecutar el programa correctamente en modo debug, se necesita agregar las C
 
 ![Image text](https://github.com/JaredLevi23/Movies-app/blob/main/README/SC2.jpeg)
 
-![Image text](https://github.com/JaredLevi23/Movies-app/blob/main/README/SC3.jpeg)
+![Image text](https://github.com/JaredLevi23/Movies-app/blob/main/README/SC3_1.jpeg)
 
 ![Image text](https://github.com/JaredLevi23/Movies-app/blob/main/README/SC4.jpeg)
 
