@@ -5,7 +5,7 @@ APLICACIÓN DE PELICULAS
 
 ## Getting Started
 
-Para probar las funciones completas se puede instalar el apk que se adjunta en el repositorio.
+Para probar las funciones completas se puede instalar el apk que se adjunta en el repositorio en la carpeta de README
 
 Para ejecutar el programa correctamente en modo debug, se necesita agregar las CLAVES SHA1 y SHA256 al proyecto en firebase para lograr autenticarse con Google y cargar imagenes a Firebase Storage, se habilitan los siguientes servicios:
 
