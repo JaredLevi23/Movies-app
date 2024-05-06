@@ -1,6 +1,5 @@
 # MOVIES APP
 
-PRUEBA MINSAIT
 APLICACIÓN DE PELICULAS
 
 ## Getting Started
